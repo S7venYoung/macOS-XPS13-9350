@@ -28,9 +28,9 @@ chmod +x ./Deploy.sh
 ```sh
 ./Deploy.sh
 ```
-4.脚本运行指导
-出现选择 EFI 盘符的选项时，请谨慎选择，xps 一般是 disk0s1 
-出现选择键盘驱动时，可以选择2，但是可能出现重启后键盘不可用的情况，此时可以外接键盘，把VoodooPS2Controller.kext复制到 EFI/CLOVER/kexts/10.14 中即可。 
+4. 脚本运行指导
+出现选择 EFI 盘符的选项时，请谨慎选择，xps 一般是 disk0s1 </br>
+出现选择键盘驱动时，可以选择2，但是可能出现重启后键盘不可用的情况，此时可以外接键盘，把VoodooPS2Controller.kext复制到 EFI/CLOVER/kexts/10.14 中即可。 </br>
 
 # 修复麦克风和扬声器
 1. 打开 S/L/E 文件夹，把 FixAudio 文件夹中的驱动复制进去，出现替换弹窗，选择替换即可 
