@@ -1,9 +1,9 @@
 # macOS-XPS13-9350
-XPS 13-9350 黑苹果 10.14.0 
+XPS-13 9350 黑苹果 10.14.0 
 
 # 配置
 
-xps-13 9350 </br>
+XPS-13 9350 </br>
 i5-6200U </br>
 8G </br>
 512 SSD </br>
@@ -41,5 +41,16 @@ chmod +x ./Deploy.sh
 # 说明
 
 主要是写下自己黑苹果步骤，怕以后忘了…… </br>
-所以基于是基于syscl的项目指导的安装记录 </br>
-感谢syscl，感谢为 xps-13 黑苹果做出贡献的人 </br>
+所以是基于syscl的项目指导的安装记录 </br>
+感谢 syscl，感谢群主 幻思宇 的声卡修复教程，感谢 King超 的麦克风修复指导，感谢为 XPS-13 黑苹果做出贡献的所有人 </br>
+
+# 其他实用项目
+
+CPU变频丨[ssdtPRGen.sh@Piker-Alpha](https://github.com/Piker-Alpha/ssdtPRGen.sh) </br>
+开启HiDPI丨[one-key-hidpi@xzhih](https://github.com/xzhih/one-key-hidpi) </br>
+I2C触摸板驱动丨[VoodooI2C@alexandred](https://github.com/alexandred/VoodooI2C) </br>
+LiluCPU变频插件丨[CPUFriend@acidanthera](https://github.com/acidanthera/CPUFriend) </br>
+XPS黑苹果鼻祖丨[XPS9350-macOS@syscl](https://github.com/syscl/XPS9350-macOS) </br>
+PS2触摸站驱动丨[VoodooPS2Controller@RehabMan](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) </br>
+好用的梯子丨[clashX@yichengchen](https://github.com/yichengchen/clashX) </br>
+
